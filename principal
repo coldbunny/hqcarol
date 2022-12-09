@@ -1,6 +1,11 @@
 }
 
 .principal {
-   background: #FFFFFF;
-   
+   background: #FFFFFF
+   padding: 20%
    }
+ul {
+  display: inline-block;
+  vertical-align: top;
+  wirht: 20%
+  margin-right: 15%
